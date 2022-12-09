@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "658750674115",
+    "firebase_url": "https://sadgurunagar-sevakendra-default-rtdb.firebaseio.com",
+    "project_id": "sadgurunagar-sevakendra",
+    "storage_bucket": "sadgurunagar-sevakendra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658750674115:android:f39ddbd349739770753e76",
+        "android_client_info": {
+          "package_name": "com.example.sadgurunagarsevakendra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658750674115-f1oinn7fl0sktfsn9mmd37a029hbvfhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDRVkveOKjdvNgyxYrxDWSrob1uMV7fY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658750674115-f1oinn7fl0sktfsn9mmd37a029hbvfhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658750674115:android:bf7627aa2fe52f3b753e76",
+        "android_client_info": {
+          "package_name": "com.vishnu.sadgurunagarsevakendra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658750674115-f1oinn7fl0sktfsn9mmd37a029hbvfhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDRVkveOKjdvNgyxYrxDWSrob1uMV7fY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658750674115-f1oinn7fl0sktfsn9mmd37a029hbvfhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

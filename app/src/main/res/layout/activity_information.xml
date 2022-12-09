@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/images"
+    tools:context=".Information">
+
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="20dp"
+        android:text="
+सद्गुरू नगर सेवाकेंद्रांमधील सर्व भक्त गणांना कळविण्यात येते की, सर्व सेवाकेंद्र कमिटी मेंबर यांनी मिळून सेवाकेंद्राचा APK बनवला आहे. ज्या प्रमाणे आपण संतसंगाच्या वही मध्ये नावे किंवा इतर माहिती ठेवत होतो.ती माहिती आता आपण डिजिटल स्वरुपात ठेवणार आहोत. ह्या APK चा वापर फक्त सद्गुरू नगर सेवाकेंद्रांमधील भक्त, साधक, शिष्य करु शकतात. ह्या APK वरच आपण सर्व भक्त गणांनी संतसंगाची हजेरी लावायची आहे.
+
+                                   विशेष सूचना-हा APK (JNMS)संस्था म्हणजे नाणिजवरुन बनवलेला नाही. तरी कृपया नोंद घ्यावी"
+
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="श्री गुरुदेव"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toTopOf="@+id/textView10"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

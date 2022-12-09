@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Vishnu/.gradle/caches/transforms-2/files-2.1/4180da7bfbf00bacd5ff38059f194c77/appcompat-1.3.1/res/layout/support_simple_spinner_dropdown_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/drawable/backgroundcolor.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/drawable/backsolidcolor.xml" value="0.2703125" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/drawable/ic_baseline_person_pin_24.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/drawable/ic_password_lock_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/layout/activity_add_bhakt_gan.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/layout/activity_add_member_to_the_commity.xml" value="0.22037037037037038" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/layout/activity_add_member_to_the_jivan_rkshak.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/layout/activity_add_report.xml" value="0.24615384615384617" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/layout/activity_add_upstiti.xml" value="0.10092592592592593" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/layout/activity_add_yuva_sena_sadguru_nagar.xml" value="0.10092592592592593" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/layout/activity_after_login_page.xml" value="0.264" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/layout/activity_commity_page.xml" value="0.22037037037037038" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/layout/activity_details_of_donar.xml" value="0.10092592592592593" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/layout/activity_get_otpactivity.xml" value="0.10092592592592593" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/layout/activity_information.xml" value="0.264" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/layout/activity_main10.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/layout/activity_nanddatak.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/layout/activity_register_usser_info.xml" value="0.264" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/layout/activity_sanjivani_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/layout/activity_yuva_sena_add.xml" value="0.10092592592592593" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/layout/activity_yuva_sena_page.xml" value="0.10092592592592593" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/layout/activity_yuva_sena_sadgurunagar_page.xml" value="0.10092592592592593" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/layout/commitytimepass.xml" value="0.22037037037037038" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/layout/dropdownmenu.xml" value="0.24615384615384617" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/layout/headerfile.xml" value="0.25" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/layout/inputsomething.xml" value="0.10092592592592593" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/layout/nandtimepass.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/layout/timepass.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/layout/yognadropdownmenu.xml" value="0.10092592592592593" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/menu/itemlist.xml" value="0.25" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SadguruNagarSevaKendra/app/src/main/res/menu/navigationitem.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

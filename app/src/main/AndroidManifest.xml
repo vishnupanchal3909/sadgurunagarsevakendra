@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="vishnu.sadgurunagarsevakendra">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SadguruNagarSevaKendra">
+        <activity
+            android:name="com.vishnu.sadgurunagarsevakendra.NandDatak.Nanddatak"
+            android:exported="true" />
+        <activity android:name="com.vishnu.sadgurunagarsevakendra.BhaktaGan.AddUpstiti" />
+        <activity android:name="com.vishnu.sadgurunagarsevakendra.Information" />
+        <activity android:name="com.vishnu.sadgurunagarsevakendra.Report.AddReport" />
+        <activity android:name="com.vishnu.sadgurunagarsevakendra.Report.ReportPage" />
+        <activity android:name="com.vishnu.sadgurunagarsevakendra.RegisterUsserInfo" />
+        <activity android:name="com.vishnu.sadgurunagarsevakendra.YuvaSenaSadgurunagar.AddYuvaSenaSadguruNagar" />
+        <activity android:name="com.vishnu.sadgurunagarsevakendra.YuvaSenaSadgurunagar.YuvaSenaSadgurunagarPage" />
+        <activity android:name="com.vishnu.sadgurunagarsevakendra.BhaktaGan.AddBhaktGan" />
+        <activity android:name="com.vishnu.sadgurunagarsevakendra.BhaktaGan.BhaktaGanPage" />
+        <activity android:name="com.vishnu.sadgurunagarsevakendra.BhudanSanklpa.AddMemberToBhudan" />
+        <activity android:name="com.vishnu.sadgurunagarsevakendra.JivanRkshak.AddMemberToTheJivanRkshak" />
+        <activity android:name="com.vishnu.sadgurunagarsevakendra.SelectYognaList" />
+        <activity android:name="com.vishnu.sadgurunagarsevakendra.Sanjivani.AddSanjivani" />
+        <activity android:name="com.vishnu.sadgurunagarsevakendra.Sanjivani.SanjivaniPage" />
+        <activity android:name="com.vishnu.sadgurunagarsevakendra.Timepass.UserList" />
+        <activity android:name="com.vishnu.sadgurunagarsevakendra.Timepass.MainActivity10" />
+        <activity android:name="com.vishnu.sadgurunagarsevakendra.Dharmakshetra.AddDharmkshetra" />
+        <activity android:name="com.vishnu.sadgurunagarsevakendra.Dharmakshetra.dharmakshetra" />
+        <activity android:name="com.vishnu.sadgurunagarsevakendra.Commity.AddMemberToTheCommity" />
+        <activity android:name="com.vishnu.sadgurunagarsevakendra.Commity.CommityPage" />
+        <activity android:name="com.vishnu.sadgurunagarsevakendra.AfterLoginPage" />
+        <activity
+            android:name="com.vishnu.sadgurunagarsevakendra.Login"
+            android:noHistory="true" />
+        <activity android:name="com.vishnu.sadgurunagarsevakendra.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

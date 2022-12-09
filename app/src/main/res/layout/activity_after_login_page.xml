@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    tools:openDrawer="start"
+    android:id="@+id/drawerlayout">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/blue_background"
+        tools:context=".AfterLoginPage">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/purple_700"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+            app:logoDescription="pll"
+            app:title="सद्गुरूनगर सेवाकेंद्र" />
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_marginTop="120dp"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+                    <LinearLayout
+                        android:layout_width="200dp"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="150dp"
+                                android:layout_height="130dp"
+                                android:id="@+id/commity"
+                                android:layout_marginTop="10dp"
+                                android:src="@drawable/commity"/>
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:gravity="center"
+                                android:textSize="15sp"
+                                android:textStyle="bold"
+                                android:textColor="@color/black"
+                                android:layout_height="wrap_content"
+                                android:text="Camity" />
+
+                        </LinearLayout>
+
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginRight="15dp"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="150dp"
+                                android:id="@+id/dharmakshetra"
+                                android:layout_height="130dp"
+                                android:layout_marginTop="10dp"
+                                android:src="@drawable/dharmakshetra"/>
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:gravity="center"
+                                android:textSize="15sp"
+                                android:textStyle="bold"
+                                android:textColor="@color/black"
+                                android:layout_height="wrap_content"
+                                android:text="Dharmkshetra" />
+
+                        </LinearLayout>
+
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginRight="15dp"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="150dp"
+                                android:id="@+id/yuvasena"
+                                android:layout_height="130dp"
+                                android:layout_marginTop="10dp"
+                                android:src="@drawable/yuvasena"/>
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:gravity="center"
+                                android:textSize="15sp"
+                                android:textStyle="bold"
+                                android:textColor="@color/black"
+                                android:layout_height="wrap_content"
+                                android:text="Yuvasena" />
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginRight="15dp"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="150dp"
+                                android:id="@+id/sanjivani"
+                                android:layout_height="130dp"
+                                android:layout_marginTop="10dp"
+                                android:src="@drawable/sanjivanilogo"/>
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:gravity="center"
+                                android:textSize="15sp"
+                                android:textStyle="bold"
+                                android:textColor="@color/black"
+                                android:layout_height="wrap_content"
+                                android:text="      Sanjivani" />
+
+                        </LinearLayout>
+
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:layout_marginTop="10dp"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="150dp"
+                                android:id="@+id/reportimageview"
+                                android:layout_height="130dp"
+                                android:layout_marginTop="10dp"
+                                android:src="@drawable/report"/>
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:gravity="center"
+                                android:textSize="15sp"
+                                android:textStyle="bold"
+                                android:textColor="@color/black"
+                                android:layout_height="wrap_content"
+                                android:text="     Report" />
+
+                        </LinearLayout>
+
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginRight="15dp"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="150dp"
+                                android:layout_height="130dp"
+                                android:id="@+id/button2"
+                                android:layout_marginTop="10dp"
+                                android:src="@drawable/bhaktagan"/>
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:gravity="center"
+                                android:textSize="15sp"
+                                android:textStyle="bold"
+                                android:textColor="@color/black"
+                                android:layout_height="wrap_content"
+                                android:text="     Bhakt Gan"/>
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+    <com.google.android.material.navigation.NavigationView
+        android:layout_gravity="start"
+        android:layout_width="wrap_content"
+        android:id="@+id/navigationview"
+        app:headerLayout="@layout/headerfile"
+        app:menu="@menu/navigationitem"
+        android:layout_height="match_parent"/>
+
+</androidx.drawerlayout.widget.DrawerLayout>
